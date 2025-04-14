@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...## 🚀 I Code In
+- ⚡ Fun fact: ...##
+
+  <br/>
+  🚀 I Code In
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
