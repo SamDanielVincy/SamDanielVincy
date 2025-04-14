@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there it's me Sam Daniel Vincy👋
 
-<!--
+Artificial Intelligence and Data Science Student
+
+
 **SamDanielVincy/SamDanielVincy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
