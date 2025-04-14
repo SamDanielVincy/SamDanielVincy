@@ -38,9 +38,8 @@ Here are some ideas to get you started:
 ## 💻 IDE and Tools I Use
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat-square" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+  <img width="64" height="64" src="https://img.icons8.com/sf-black-filled/64/github.png" alt="github"/>
+   <img width="50" height="50" src="https://img.icons8.com/ios/50/notion.png" alt="notion"/>
 </p>
