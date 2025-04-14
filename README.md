@@ -11,9 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
   <br/>
   <a href="https://www.linkedin.com/in/sam-daniel-vincy/" target="_blank">
-  <img width="30" height="30" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-  ![image](https://github.com/user-attachments/assets/695f1d2c-2c73-49c6-a52a-78829094bcc5)
-
+  <img width="30" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a/>
 
 
 
