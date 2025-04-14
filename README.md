@@ -9,9 +9,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DSA,Machine Learning and Statistical Analysis
 - 👯 I’m looking to collaborate on Startups,Companies
 - 📫 How to reach me: ...
+  <br/>
   <a href="https://www.linkedin.com/in/sam-daniel-vincy/" target="_blank">
   <img width="30" height="30" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-</a>
+  ![image](https://github.com/user-attachments/assets/695f1d2c-2c73-49c6-a52a-78829094bcc5)
+
 
 
 
