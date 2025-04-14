@@ -3,18 +3,17 @@
 Artificial Intelligence and Data Science Student
 
 
-**SamDanielVincy/SamDanielVincy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Aritificial Intelligence
+- 🌱 I’m currently learning DSA,Machine Learning and Statistical Analysis
+- 👯 I’m looking to collaborate on Startups,Companies
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...##
+  <a href="https://www.linkedin.com/in/sam-daniel-vincy/" target="_blank">
+  <img width="30" height="30" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+</a>
+
+
 
   <br/>
   🚀 I Code In
