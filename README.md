@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   🚀 I Code In
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
   <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" />
