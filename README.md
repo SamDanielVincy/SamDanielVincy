@@ -13,29 +13,6 @@
 
 ---
 
-### 🔥 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="45%;"><a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SamDanielVincy&repo=no-code-ml-platform&theme=dark" /></a></td>
-      <td width="10%;"></td>
-      <td width="45%;"><a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SamDanielVincy&repo=heart-disease-prediction&theme=dark" /></a></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>No-Code ML Platform</strong><br/>Streamlit app for easy ML model training/deploy</td>
-      <td></td>
-      <td align="center"><strong>Heart Disease Predictor</strong><br/>ML + LLM for risk assessment & reports</td>
-    </tr>
-  </table>
-</div>
-<div align="center">
-  <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SamDanielVincy&repo=drug-discovery-risk&theme=dark" /></a>
-  <p><strong>AI Drug Discovery & Risk System</strong><br/>OCR, LLMs, MongoDB dashboard for medication safety</p>
-</div>[web:23][file:2]
-
----
-
 ### 🛠️ Favorite Tech
 
 > Tools, languages, and frameworks I love working with.
@@ -175,15 +152,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  ![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamDanielVincy&show_icons=true&theme=dark&hide_border=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamDanielVincy&layout=compact&theme=dark&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=SamDanielVincy&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D4AA" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamDanielVincy&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D4AA" />
 </div>[web:23]
 
 ---
 
-### 👀 Profile Views
+### 👀 Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/SamDanielVincy/count.svg)[web:40]
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SamDanielVincy&color=green&style=flat" />
+</div>[web:40]
 
 ---
 
@@ -191,7 +170,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-daniel-vincy/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samdanielvincy1029@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/SamDanielVincy)
 
 ---
 
