@@ -40,13 +40,15 @@ I focus on building **end-to-end ML applications and scalable backend services**
 <table>
   <tr>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48"/><br/><strong>Flask</strong></td>
-    <td align="center" width="120"><img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="48"/><br/><strong>FastAPI</strong></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48"/><br/>
+<strong>FastAPI</strong>
+</td>
     <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/><br/><strong>Scikit-learn</strong></td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br/><strong>TensorFlow</strong></td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br/><strong>Pandas</strong></td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br/><strong>NumPy</strong></td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/><br/><strong>Matplotlib</strong></td>
-    <td align="center" width="120"><img src="https://streamlit.io/cloud/_static/shared/StreamlitLogo.svg" width="48"/><br/><strong>Streamlit</strong></td>
+    <td align="center" width="120"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/streamlit.svg" width="48"/><br/><strong>Streamlit</strong></td>
   </tr>
 </table>
 
