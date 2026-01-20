@@ -97,15 +97,14 @@
 
 ---
 
-### 🏆 GitHub Trophies & Streak
+### 🔥 GitHub Streak Stats
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SamDanielVincy&theme=darkhub&no-frame=true&no-bg=true&margin-w=15)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamDanielVincy&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=SamDanielVincy&theme=dark)[web:5]
 
 ---
 
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-daniel-vincy/)  
-[![Gmail](https://img.shields.io/badge/-samdanielvincy1029@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samdanielvincy1029@gmail.com)
+[![Gmail](https://img.shields.io/badge/-samdanielvincy1029@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samdanielvincy1029@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SamDanielVincy)
