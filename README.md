@@ -97,12 +97,6 @@
 
 ---
 
-### 🔥 GitHub Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SamDanielVincy&theme=dark)[web:5]
-
----
-
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-daniel-vincy/)  
