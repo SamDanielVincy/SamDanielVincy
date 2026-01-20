@@ -7,8 +7,12 @@
 
 ## 👋 Hey there, I'm Sam Daniel Vincy!
 
-🎓 B.Tech **Artificial Intelligence and Data Science** @ Sri Manakula Vinayagar Engineering College (2022–2026) | CGPA: 8.1  
-📍 Puducherry, India  
+<div align="center">
+  <strong>🎓 B.Tech Artificial Intelligence and Data Science</strong><br>
+  Sri Manakula Vinayagar Engineering College (2022–2026) | CGPA: 8.1<br>
+  📍 Puducherry, India
+</div>
+
 💡 Building practical ML systems, data-driven apps, and scalable backends for real-world impact.[file:2]
 
 ---
@@ -33,13 +37,13 @@
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+        <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="48" height="48" alt="FastAPI" />
       </a>
       <br>FastAPI
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit_learn/scikit_learn-original.svg" width="48" height="48" alt="Scikit-learn" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="48" height="48" alt="Scikit-learn" />
       </a>
       <br>Scikit-learn
     </td>
@@ -63,7 +67,7 @@
     </td>
     <td align="center" width="96">
       <a href="#favorite-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="48" height="48" alt="Streamlit" />
+        <img src="https://streamlit.io/cloud/_static/shared/StreamlitLogo.svg" width="48" height="48" alt="Streamlit" />
       </a>
       <br>Streamlit
     </td>
@@ -152,17 +156,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamDanielVincy&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D4AA" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamDanielVincy&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D4AA" />
-</div>[web:23]
-
----
-
-### 👀 Visitors
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SamDanielVincy&color=green&style=flat" />
-</div>[web:40]
+  <img src="https://github-readme-stats.vercel.app/api?username=SamDanielVincy&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D4AA" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamDanielVincy&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=00D4AA" width="38%" />
+</div>
 
 ---
 
