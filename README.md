@@ -27,34 +27,45 @@ I focus on building **end-to-end ML applications and scalable backend services**
 ### 🛠️ Favorite Tech
 
 #### 🧑‍💻 Programming Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br/>
+      <strong>Python</strong>
+    </td>
+  </tr>
+</table>
 
 #### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
-  <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
-  <img src="https://streamlit.io/cloud/_static/shared/StreamlitLogo.svg" width="45"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48"/><br/><strong>Flask</strong></td>
+    <td align="center" width="120"><img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="48"/><br/><strong>FastAPI</strong></td>
+    <td align="center" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/><br/><strong>Scikit-learn</strong></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br/><strong>TensorFlow</strong></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br/><strong>Pandas</strong></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br/><strong>NumPy</strong></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/><br/><strong>Matplotlib</strong></td>
+    <td align="center" width="120"><img src="https://streamlit.io/cloud/_static/shared/StreamlitLogo.svg" width="48"/><br/><strong>Streamlit</strong></td>
+  </tr>
+</table>
 
 #### 🛠️ Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/><strong>Git</strong></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br/><strong>VS Code</strong></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/><br/><strong>Jupyter</strong></td>
+  </tr>
+</table>
 
 #### 🗄️ Databases & Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br/><strong>MongoDB</strong></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br/><strong>MySQL</strong></td>
+  </tr>
+</table>
 
 ---
 
@@ -98,11 +109,12 @@ I focus on building **end-to-end ML applications and scalable backend services**
 ### 🌐 Connect
 
 <p align="center">
+  <strong>Let’s connect professionally:</strong><br/><br/>
   <a href="https://www.linkedin.com/in/sam-daniel-vincy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Sam%20Daniel%20Vincy-0077B5?logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:samdanielvincy1029@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-samdanielvincy1029@gmail.com-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
