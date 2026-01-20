@@ -5,51 +5,56 @@
 
 ---
 
-## 👋 Hey there, I'm Sam Daniel Vincy!
+## 👋 Hi, I'm Sam Daniel Vincy
 
-<div align="center">
-  <strong>🎓 B.Tech – Artificial Intelligence & Data Science</strong><br/>
-  Sri Manakula Vinayagar Engineering College (2022–2026)<br/>
-  <strong>CGPA:</strong> 8.1<br/>
-  📍 Puducherry, India
-</div>
+🎯 **AI & Data Science Student | Aspiring Machine Learning Engineer**  
+📍 **Puducherry, India**
 
-<br/>
+---
 
-<p align="center">
-  💡 Building practical machine learning systems, data-driven applications, and scalable backend services with real-world impact.
-</p>
+### 🧠 About Me
+
+I am a **B.Tech Artificial Intelligence and Data Science student** with a strong passion for **machine learning, backend development, and data-driven systems**.  
+I focus on building **end-to-end ML applications and scalable backend services** with an emphasis on **performance, reliability, and real-world impact**.
+
+- 🔭 **Currently working on:** Machine learning projects and backend-driven AI applications  
+- 🌱 **Currently learning:** Advanced MLOps, LLM integrations (RAG, fine-tuning), and cloud deployment  
+- 💡 **Interests:** Applied machine learning, system design, data engineering  
+- 📫 **Contact:** samdanielvincy1029@gmail.com
 
 ---
 
 ### 🛠️ Favorite Tech
 
-<p align="center">
-  Tools, languages, and frameworks I enjoy working with.
+#### 🧑‍💻 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br/>Python</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48"/><br/>Flask</td>
-    <td align="center" width="100"><img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="48"/><br/>FastAPI</td>
-    <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/><br/>Scikit-learn</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48"/><br/>TensorFlow</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br/>MongoDB</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br/>MySQL</td>
-    <td align="center" width="100"><img src="https://streamlit.io/cloud/_static/shared/StreamlitLogo.svg" width="48"/><br/>Streamlit</td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br/>VS Code</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/>Git</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/><br/>Jupyter</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br/>Pandas</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br/>NumPy</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/><br/>Matplotlib</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>HTML5</td>
-    <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/>CSS3</td>
-  </tr>
-</table>
+#### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
+  <img src="https://fastapi.tiangolo.com/img/icon-white.svg" width="45"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45"/>
+  <img src="https://streamlit.io/cloud/_static/shared/StreamlitLogo.svg" width="45"/>
+</p>
+
+#### 🛠️ Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+</p>
+
+#### 🗄️ Databases & Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
 
 ---
 
@@ -67,7 +72,7 @@
 
 ### 📚 Currently Learning
 
-- 🧠 Advanced MLOps, LLM integration (RAG, fine-tuning)
+- 🧠 Advanced MLOps and LLM systems (RAG, fine-tuning)
 - 📊 Data Structures & Algorithms
 - ☁️ Cloud deployment for ML workloads (AWS / GCP)
 
@@ -93,7 +98,7 @@
 ### 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sam-daniel-vincy/">
+  <a href="https://www.linkedin.com/in/sam-daniel-vincy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
@@ -101,7 +106,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-⚡ **Fun Fact:** Top 3 hackathon finalist focused on building AI tools that make data science more accessible.
